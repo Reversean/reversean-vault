@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "bf25c1362dad4db0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3bdbc370c5e7d4",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b22c16bb93961c8",
+            "type": "split",
+            "dimension": 72.8989612842304,
+            "children": [
+              {
+                "id": "3afaff3faaeacbcf",
+                "type": "tabs",
+                "dimension": 66.83209263854425,
+                "children": [
+                  {
+                    "id": "b93a8bc76ef5e3b7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Computer Science/theory/Программирование/Синтаксический анализ.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Синтаксический анализ"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "b4ba4ae234fcdff3",
+                "type": "tabs",
+                "dimension": 33.167907361455754,
+                "children": [
+                  {
+                    "id": "265758c826984b2d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "abit/2. Вычислительные машины, системы и сети/2.1. Процессоры общего назначения. Архитектуры CISC и RISC. Конвейер. Суперскалярность. Кэширование команд и данных..md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2.1. Процессоры общего назначения. Архитектуры CISC и RISC. Конвейер. Суперскалярность. Кэширование команд и данных."
+                    }
+                  },
+                  {
+                    "id": "af3c7745ac524510",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "abit/Questions.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Questions"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "41dc5c9835897f7d",
+            "type": "tabs",
+            "dimension": 27.101038715769594,
+            "children": [
+              {
+                "id": "dae1b53760c70603",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2025-07-23.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-07-23"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61687c0d8f45b31a",
+    "type": "split",
+    "children": [
+      {
+        "id": "80fe9c86334b588b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd961975b758ad0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "66fb7624d7f6ff25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "недетер",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76bf60d068556463",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.50418853759766
+  },
+  "right": {
+    "id": "1a256b51d126fd18",
+    "type": "split",
+    "children": [
+      {
+        "id": "aafc57ed2767ae3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca93985a7af09d84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "abit/Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Questions"
+            }
+          },
+          {
+            "id": "881fe14c53514c1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "abit/Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Questions"
+            }
+          },
+          {
+            "id": "88609378480eb6b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "77d77f7547ce04bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "abit/Questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Questions"
+            }
+          },
+          {
+            "id": "9a69df8c46baf250",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cd961975b758ad0b",
+  "lastOpenFiles": [
+    "Computer Science/theory/Программирование/Синтаксический анализ.md",
+    "Computer Science/theory/Операционные системы/Процесс.md",
+    "2025-07-23.md",
+    "Computer Science/theory/Программирование/Лексический анализ.md",
+    "Computer Science/theory/Программирование/Компилятор.md",
+    "Computer Science/theory/Формальные языки/Регулярный язык.md",
+    "Computer Science/theory/Формальные языки/Регулярная грамматика.md",
+    "abit/Questions.md",
+    "Computer Science/theory/Программирование/Промежуточное представление программы.md",
+    "Computer Science/theory/Программирование/Интерпретатор.md",
+    "Computer Science/theory/Программирование/Транслятор.md",
+    "Computer Science/theory/Программирование/Исходный код.md",
+    "Computer Science/theory/Компьютерная программа.md",
+    "Computer Science/theory/Программирование/Распределенное программирование.md",
+    "Computer Science/theory/Вычислительная техника/Grid.md",
+    "Computer Science/theory/Вычислительная техника/Кластер.md",
+    "Computer Science/theory/Программирование/Распределенные вычисления.md",
+    "Computer Science/theory/Вычислительная техника/Вычислительная техника.md",
+    "Computer Science/theory/Вычислительная техника/Процессор.md",
+    "Computer Science/theory/Вычислительная техника/Система распределенных вычислений.md",
+    "Computer Science/theory/Вычислительная техника/Сети/Ethernet.md",
+    "Computer Science/theory/Программирование/Программирование.md",
+    "Computer Science/theory/Базы данных/Физический уровень.md",
+    "Computer Science/theory/Вычислительная техника/Защищенный режим.md",
+    "Computer Science/theory/Вычислительная техника/Страничная организация памяти.md",
+    "Computer Science/theory/Вычислительная техника/Сегментная адресация памяти.md",
+    "Untitled.canvas",
+    "Cтек протоколов TCP",
+    "Computer Science/theory/Вычислительная техника/Сети",
+    "Computer Science/theory/Геометрия",
+    "Computer Science/theory/Криптография",
+    "Computer Science/theory/Формальные языки",
+    "Computer Science/theory/Структуры данных",
+    "Computer Science/theory/Операционные системы",
+    "Computer Science/theory/Базы данных",
+    "Computer Science/theory/Программирование",
+    "Computer Science/theory/Алгоритмы",
+    "Без названия.canvas",
+    "art/digital/primitives.png"
+  ]
+}
