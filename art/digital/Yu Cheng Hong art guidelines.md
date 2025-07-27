@@ -1,4 +1,4 @@
-	Основано на данном [разборе](https://youtu.be/wP7ZPxiOSWI?si=b1KtX68VV2aNs4h-) построения рисунка китайского художника Yu Cheng Hong.
+Основано на данном [разборе](https://youtu.be/wP7ZPxiOSWI?si=b1KtX68VV2aNs4h-) построения рисунка китайского художника Yu Cheng Hong.
 
 # Построение из примитивов
 
