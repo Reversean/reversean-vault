@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00f903c30dc39b69",
+        "id": "deb20b27a64e503e",
         "type": "tabs",
         "children": [
           {
-            "id": "30d835e1bcb6bef3",
+            "id": "5ee0215448e6b6aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abit/Eng/Themes/2. Addressing the Issue of Antibiotic Resistance.md",
+                "file": "Abit/Eng/About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Addressing the Issue of Antibiotic Resistance"
+              "title": "About"
             }
           }
         ]
@@ -179,32 +179,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30d835e1bcb6bef3",
+  "active": "5ee0215448e6b6aa",
   "lastOpenFiles": [
-    "Abit/Eng/Themes/1. Current Challenges in Science.md",
-    "Abit/Eng/Themes/2. Addressing the Issue of Antibiotic Resistance.md",
-    "Abit/Eng/Levels.md",
-    "Abit/Eng/Themes",
-    "Abit/Eng/About (alt).md",
+    "Abit/Eng/Themes/6. Can humanity effectively cope with climate change.md",
+    "Abit/Eng/Themes/5. What are the biggest challenges in developing sustainable renewable energy technologies.md",
     "Abit/Eng/About.md",
+    "Abit/Spec/About.md",
+    "Abit/Eng/About (2024).md",
+    "Abit/Eng/About (alt).md",
+    "Abit/Eng/Verb tenses.md",
+    "Abit/Eng/Levels.md",
+    "Abit/About.md",
+    "Abit/Eng/Themes/4. How can we ensure the security and privacy of data in the age of digitalization.md",
+    "Abit/Eng/Themes/3. What are the potential risks and benefits of artificial intelligence.md",
+    "Abit/Eng/Themes/2. Addressing the Issue of Antibiotic Resistance.md",
+    "Abit/Eng/Themes/1. Current Challenges in Science.md",
+    "Abit/Eng/Themes/20. What personality traits do scientists share.md",
+    "Abit/Eng/Themes/19. What background knowledge should a researcher in your field have.md",
+    "Abit/Eng/Themes/18. Is there any connection between education and success in science.md",
+    "Abit/Eng/Themes/17. What soft skills are important for researchers.md",
+    "Abit/Eng/Themes/16. What sources should science be funded from.md",
+    "Abit/Eng/Themes/15. What are the keystones of scientific research.md",
+    "Abit/Eng/Themes/14. How will education benefit from AI.md",
+    "Abit/Eng/Themes/13. What is current scientific communication based on.md",
+    "Abit/Eng/Themes/12. How can we bridge the gap between scientific research and public understanding to promote evidence-based decision making.md",
     "Abit/Eng/Themes (2024)/1. What are the current challenges in science.md",
-    "Art/Непосредственный образ.md",
-    "Art/Транслируемый образ.md",
-    "Art/Мысленный образ.md",
-    "Art/Восприятие.md",
-    "Визуальный анализ.md",
-    "Art/Визуальная грамотность.md",
-    "Art/Визуальная коммуникация.md",
-    "Визуальная информация.md",
-    "Art/Повсеместная визуализация.md",
-    "Art/digital/ART School by Marc Brunet/Term 1/Checklist.md",
-    "Art/digital/ART School by Marc Brunet/Checklist.md",
-    "Term 2 checklist.md",
-    "Term 1 checklist.md",
+    "Abit/Eng/Themes/11. How will quantum computing technology affect ordinary people's lives.md",
+    "Abit/Eng/Themes/10. What are the potential impacts of nanotechnology.md",
+    "Abit/Eng/Themes/9. What are the possible benefits of gene editing technologies.md",
+    "Abit/Eng/Themes",
     "Art/digital/primitives.png",
-    "Art/digital/ART School by Marc Brunet/Term 2/Checklist.md",
     "Art/digital/ART School by Marc Brunet/Term 8",
-    "Art/digital/ART School by Marc Brunet/Untitled.md",
     "Art/digital/ART School by Marc Brunet/Term 7",
     "Art/digital/ART School by Marc Brunet/Term 6",
     "Art/digital/ART School by Marc Brunet/Term 5",
@@ -212,11 +217,6 @@
     "Art/digital/ART School by Marc Brunet/Term 3",
     "Art/digital/ART School by Marc Brunet/Term 2",
     "Art/digital/ART School by Marc Brunet/Term 1",
-    "Term 3 checklist.md",
-    "Term 4 checklist.md",
-    "Term 5 checklist.md",
-    "Term 6 checklist.md",
-    "Term 7 checklist.md",
     "Art/digital/ART School by Marc Brunet",
     "Untitled.canvas",
     "Без названия.canvas"

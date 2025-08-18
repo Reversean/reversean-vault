@@ -134,4 +134,31 @@
 	- sport (attack, beat, compete (for something), competitor, court, extreme sport, have a go, lose, miss (a ball), net, opponent, referee, score, track, training, win (a point, game, match), workout) 
 	- expressions with do, make and take 
 	- adjectives and prepositions (afraid of, essential for, interested in, perfect for, popular with, proud of, right for, scared of, similar to, tired of, worried about).
+
+## C1
+
+- **Грамматические формы:** 
 	
+	- simple, continuous and present tenses; 
+	- active and Passive; 
+	- conditionals; 
+	- used to and would; 
+	- obligation and permission (to be supposed to, to be allowed to, to be forced to etc.); 
+	- future probability (might/is certain to/is likely to etc); 
+	- gerunds and infinitives (after certain verbs and in certain structures, e.g. infinitive of purpose); 
+	- too/enough/so/such; causative have/get; 
+	- relative clauses; 
+	- reported speech; 
+	- past modals of deduction; 
+	- wishes and regrets.
+	
+- **Лексический материал:** 
+	
+	- character adjectives (self-confident, arrogant, loyal, ambitious etc), environment (at risk, endangered, solar energy, carbon footprint, fragile environment etc); 
+	- travelling and tourism and adjectives to describe places (stunning, memorable, superb, awe-inspiring etc); success and failure, ability and achievement, expressing difficulty and talking about effort (demanding, awkward, delicate subject, outstanding, exceptional,give up, keep it up, overcome, tackle etc); 
+	- cause and result (leads to, caused by, effect vs affect etc.); 
+	- city living (urban development, air pollution, traffic congestion etc); 
+	- crime (crimes-criminals-verbs, to be sentenced, court etc); 
+	- health (treat, develop an allergy, etc); 
+	- verbs describing thought and knowledge (doubt, assume, realise etc.);
+	- adjectives with prefixes (irresponsible, informal, dissatisfied).

@@ -1,21 +1,9 @@
-My name is Mikhail, I'am twenty three.
+My name is Mikhail, and I am currently working as a web developer in the Industrial Stream Data Processing Systems Laboratory at Peter the Great Polytechnic University. In my daily work, I mainly **develop server applications in Java and Kotlin using Spring Boot**, although I **have also gained** practical experience with C#, JavaScript, Python, Haskell, C, C++, and SQL. This variety of programming languages **has allowed me** to become more flexible in solving tasks and to approach problems from multiple perspectives.
 
-I'm backend-developer in "Industrial straming data processing systems" laboratory belononging to the Polytech of Peter the Great. I mostly develop Java/Kotlin server-applications using Spring Framework. I have also expirience with C#, JavaScript, Python, Haskell, C, C++, SQL programming languages.
+At the same time, I am a postgraduate student specializing in _Informatics and Computer Engineering_. My diploma project **was focused on** the fields of program analysis and test design, where I **have been exploring** approaches to generate software tests automatically.
 
-I'am graduate student in "Computer science and engineering" from the Polytech of Peter the Great. My graduation work is related to the Program Analysis and Test Design domains.
+I am deeply interested in metaprogramming, that is, the development of programs which **are able to treat** other programs as data. This area **has always attracted me** because it combines theoretical foundations with practical applications. My long-term plan **is to design tools that will simplify** the development process for other programmers.
 
-I'm very interested in field of Program Analysis. It's about automatic discovering of program properties. Analysis process validate functional correctness, security and fault tolerance of software. Also it's used in modern compilers for code optimization.
+This is the main reason why I chose the theme **Automated Software Porting**. The research **is devoted to** studying and implementing methods that allow software to be transferred automatically from one platform to another. The ultimate goal **is to investigate** approaches to software porting via *formal specifications* and to identify opportunities for applying them in real-world scenarios. In particular, I **am planning to analyze** techniques for porting mobile applications from popular platforms such as Android or iOS to less common and still developing systems, for instance, Harmony OS Next.
 
-For me Static Analysis domain is particulary interesting. Comparing to dynamic analysis the static analysis may achive more detail results, especially in defect detection problem.
-
-Unfortunately there is no opportunity for me to develop theoretical and practial skills in this domain during my workintg tasks.
-
-To fix this and develop my sciencific knowledges in this domain, I decided to continue my graduation. I choose ITMO becase here i was able to find supervisor who has extensive expirience in this field.
-
-My chosen dissertation theme is about techniques "symbolic execution" and "property-based testing".
-
-Symbolic execution is static analysis techinque that allows to determine what inputs cause each program part to execute. It's used in various program analysis tools.
-
-Property-based testing was originally developed for random testing of Haskell program properties by using some predicates and auto-generated input data. Now this approach is also gaining popularity on another platforms.
-
-Both symbolic execution and property-based testing are actively used to ensure software quality. It's possible that using both of them together could improve efficiency of software verification. I would like to research how to combine these techniques in close years.
+The scientific relevance of my topic **can be explained by** the growing necessity to adapt mobile software to emerging operating systems. At present, the majority of applications **are specialized** for a single platform, which **creates difficulties** for both users and developers. The availability of automated tools **would make it possible** to adapt applications more easily, even if the supported lists of source and target platforms **remain limited**. Such a solution **could significantly reduce** development costs and, in the long run, **would contribute** to the growth of new platforms and their communities.
