@@ -1,8 +1,0 @@
-- [ ] [[Term 1/Checklist|Term 1]]
-- [ ] [[Term 2]]
-- [ ] [[Term 3]]
-- [ ] [[Term 4]]
-- [ ] [[Term 5]]
-- [ ] [[Term 6]]
-- [ ] [[Term 7]]
-- [ ] [[Term 8]]
