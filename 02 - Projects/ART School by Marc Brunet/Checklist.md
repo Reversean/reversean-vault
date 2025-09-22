@@ -1,4 +1,4 @@
-- [ ] [[Projects/ART School by Marc Brunet/Term 1/Checklist|Term 1]]
+- [ ] [[02 - Projects/ART School by Marc Brunet/Term 1/Checklist|Term 1]]
 - [ ] [[Term 2]]
 - [ ] [[Term 3]]
 - [ ] [[Term 4]]
