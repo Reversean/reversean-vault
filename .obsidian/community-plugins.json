@@ -11,6 +11,9 @@
   "global-search-and-replace",
   "dataview",
   "periodic-notes",
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "quickadd"
   "embed-code-file",
   "obsidian-linter"
 ]
