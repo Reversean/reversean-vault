@@ -10,5 +10,8 @@
   "templater-obsidian",
   "global-search-and-replace",
   "dataview",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "quickadd"
 ]
