@@ -10,5 +10,7 @@
   "templater-obsidian",
   "global-search-and-replace",
   "dataview",
-  "periodic-notes"
+  "periodic-notes",
+  "embed-code-file",
+  "obsidian-linter"
 ]
