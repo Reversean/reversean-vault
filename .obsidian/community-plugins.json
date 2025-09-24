@@ -1,19 +1,18 @@
 [
-  "remotely-save",
-  "obsidian-style-settings",
-  "obsidian-icon-folder",
+  "calendar",
   "code-styler",
   "code-files",
-  "obsidian-git",
-  "calendar",
-  "obsidian-paste-image-rename",
-  "templater-obsidian",
-  "global-search-and-replace",
   "dataview",
-  "periodic-notes",
-  "obsidian-tasks-plugin",
+  "global-search-and-replace",
+  "obsidian-git",
+  "obsidian-icon-folder",
   "obsidian-kanban",
-  "quickadd"
+  "obsidian-paste-image-rename",
+  "quickadd",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
   "embed-code-file",
-  "obsidian-linter"
+  "obsidian-linter",
+  "periodic-notes"
 ]
