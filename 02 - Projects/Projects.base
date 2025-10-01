@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.tags.contains("project")
+    - '!file.tags.contains("project/properties")'
+views:
+  - type: table
+    name: All Project Files
+    order:
+      - file.name
+      - parent
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+  - type: table
+    name: All Projects
+    filters:
+      and:
+        - and:
+            - file.tags.contains("project")
+            - '!file.tags.contains("project/epic")'
+            - '!file.tags.contains("project/story")'
+            - '!file.tags.contains("project/task")'
+    order:
+      - file.name
+      - parent
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      note.tags: 140
