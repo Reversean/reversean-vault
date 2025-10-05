@@ -1,6 +1,8 @@
 ---
 tags:
-  - project/epic
+  - project/idea
+type: Idea
+project:
 status:
 priority:
 due:

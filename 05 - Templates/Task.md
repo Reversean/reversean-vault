@@ -1,10 +1,12 @@
 ---
 tags:
-  - project/epic
+  - project/task
+type: Task
+project: "[[Project]]"
 status:
 priority:
 due:
 cover:
 description:
-parent:
+parent: "[[Story]]"
 ---

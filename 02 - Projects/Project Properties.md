@@ -1,7 +1,8 @@
 ---
 parent:
 tags:
-  - project/properties
+  - project/system
+type: System
 status:
   - Backlog
   - In-Progress

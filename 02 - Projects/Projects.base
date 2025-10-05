@@ -1,32 +1,30 @@
 filters:
   and:
-    - file.tags.contains("project")
-    - '!file.tags.contains("project/properties")'
+    - "!type.isEmpty()"
+    - type != "System"
 views:
+  - type: cards
+    name: All Projects Board
+    filters:
+      and:
+        - type == "Project"
+    order:
+      - file.name
+      - status
+      - due
+      - description
+    sort: []
+    columnSize:
+      note.tags: 140
+    image: note.cover
+    imageAspectRatio: 1
   - type: table
     name: All Project Files
     order:
       - file.name
       - parent
-      - tags
-      - status
-      - priority
-      - due
-      - cover
-      - description
-    sort: []
-  - type: table
-    name: All Projects
-    filters:
-      and:
-        - and:
-            - file.tags.contains("project")
-            - '!file.tags.contains("project/epic")'
-            - '!file.tags.contains("project/story")'
-            - '!file.tags.contains("project/task")'
-    order:
-      - file.name
-      - parent
+      - project
+      - type
       - tags
       - status
       - priority
@@ -35,4 +33,169 @@ views:
       - description
     sort: []
     columnSize:
+      file.name: 216
+      note.tags: 140
+  - type: table
+    name: All Projects
+    filters:
+      and:
+        - type == "Project"
+    order:
+      - file.name
+      - type
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      note.tags: 140
+  - type: table
+    name: All Epics
+    filters:
+      and:
+        - type == "Epic"
+    order:
+      - file.name
+      - parent
+      - project
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+  - type: table
+    name: All Stories
+    filters:
+      and:
+        - type == "Story"
+    order:
+      - file.name
+      - parent
+      - project
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+  - type: table
+    name: All Tasks
+    filters:
+      and:
+        - type == "Task"
+    order:
+      - file.name
+      - parent
+      - project
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+  - type: table
+    name: All Ideas
+    filters:
+      and:
+        - type == "Idea"
+    order:
+      - file.name
+      - parent
+      - project
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+  - type: table
+    name: Project Files
+    filters:
+      and:
+        - project == this.file
+    order:
+      - file.name
+      - parent
+      - project
+      - type
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      file.name: 216
+      note.tags: 140
+  - type: table
+    name: Project Epics
+    filters:
+      and:
+        - project == this.file
+        - type == "Epic"
+    order:
+      - file.name
+      - parent
+      - project
+      - type
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      file.name: 216
+      note.tags: 140
+  - type: table
+    name: Project Tasks
+    filters:
+      and:
+        - project == this.file
+        - type == "Task"
+    order:
+      - file.name
+      - parent
+      - project
+      - type
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      file.name: 216
+      note.tags: 140
+  - type: table
+    name: Project Stories
+    filters:
+      and:
+        - project == this.file
+        - type == "Story"
+    order:
+      - file.name
+      - parent
+      - project
+      - type
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      file.name: 216
       note.tags: 140
