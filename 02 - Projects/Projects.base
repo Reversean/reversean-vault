@@ -135,6 +135,7 @@ views:
     sort: []
     columnSize:
       file.name: 216
+      note.parent: 289
       note.tags: 140
   - type: table
     name: Project Epics
@@ -162,6 +163,48 @@ views:
     filters:
       and:
         - project == this.file
+        - type == "Task"
+    order:
+      - file.name
+      - parent
+      - project
+      - type
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      file.name: 216
+      note.tags: 140
+  - type: table
+    name: Epic Stories
+    filters:
+      and:
+        - parent == this.file
+        - type == "Story"
+    order:
+      - file.name
+      - parent
+      - project
+      - type
+      - tags
+      - status
+      - priority
+      - due
+      - cover
+      - description
+    sort: []
+    columnSize:
+      file.name: 216
+      note.tags: 140
+  - type: table
+    name: Story Tasks
+    filters:
+      and:
+        - parent == this.file
         - type == "Task"
     order:
       - file.name

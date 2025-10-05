@@ -1,19 +1,15 @@
 ---
+type: Epic
+project: "[[Spec Driven Dev Service]]"
+parent: "[[Spec Driven Dev Service]]"
 tags:
   - project/epic
-type: Epic
-project: "[[Project]]"
 status:
 priority:
 due:
 cover:
 description:
-parent: "[[Project]]"
 ---
-## Описание
-
-
-
 ## Dashboard
 
 ### Epic Stories
