@@ -8,16 +8,16 @@ tags:
 type: Project
 project: "[[Spec Driven Dev Service]]"
 status:
-  - Backlog
+  - Research
 priority:
   - Normal
 due: 2025-11-01T00:00:00
 cover:
-description:
+description: R&D проект для исследования [[LLM-агент|LLM-агентов]], методологии [[Spec-Driven Development]], способы ее воздействия на [[Большая языковая модель|LLM]] и эффекты этого воздействия.
 ---
 ## Описание
 
-R&D проект для исследования [[LLM-агент|LLM-агентов]], методологии [[Spec-Driven Development]], способы ее воздействия на [[Большая языковая модель|LLM]] и эффекты этого воздействия.
+`= this.file.frontmatter.description`
 
 ## Dashboard
 

@@ -8,6 +8,7 @@ status:
   - In-Progress
   - Completed
   - Abandoned
+  - Research
 priority:
   - High
   - Normal

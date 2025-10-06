@@ -10,3 +10,10 @@ cover:
 description:
 parent: "[[Story]]"
 ---
+## Описание
+
+`= this.file.frontmatter.description`
+
+## Связанные ссылки
+
+- 

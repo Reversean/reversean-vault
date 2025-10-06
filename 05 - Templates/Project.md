@@ -11,7 +11,7 @@ description:
 ---
 ## Описание
 
-
+`= this.file.frontmatter.description`
 
 ## Dashboard
 

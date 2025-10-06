@@ -12,7 +12,7 @@ parent: "[[Epic]]"
 ---
 ## Описание
 
-
+`= this.file.frontmatter.description`
 
 ## Dashboard
 

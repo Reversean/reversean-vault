@@ -12,7 +12,7 @@ parent: "[[Project]]"
 ---
 ## Описание
 
-
+`= this.file.frontmatter.description`
 
 ## Dashboard
 
